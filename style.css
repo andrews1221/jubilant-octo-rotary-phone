@@ -11,5 +11,5 @@ body {font-family: sans-serif;
 background-image: url("bg.jpg");
 background-size: 1920px 1080px
 }
-.text*{margin: auto; width: 75%; background-color:white}
+.text{margin: auto; width: 75%; background-color:white}
 </style>
